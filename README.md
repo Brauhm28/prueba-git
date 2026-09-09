@@ -1,2 +1,1 @@
-"# Prueba de Git" 
-"Aprendiendo control de versiones." 
+# Prueba de Git
